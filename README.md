@@ -13,4 +13,4 @@ Page is Designed for wishing everyone a
 ### Very Happy New Year 2020.
 
 
-![Mobile View](https://github.com/viragjainVJ/new-year-2020/src/icons/Mobile1.jpeg)
+![Mobile View](https://github.com/viragjainVJ/new-year-2020/tree/master/src/icons/Mobile1.jpeg)
