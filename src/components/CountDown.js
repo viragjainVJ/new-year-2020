@@ -124,7 +124,7 @@ class CountDown extends React.Component {
     
         return (
           !countDown.nye 
-            ? <div>{this.countDownClock(countDown)}</div>
+            ? this.countDownClock(countDown)
             : <HappyNewYear/>
         );
       }
