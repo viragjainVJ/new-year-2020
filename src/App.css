@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  height: 20vmin;
+  height: 25vmin;
   pointer-events: none;
 }
 
@@ -22,6 +22,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  padding-bottom: 10px;
 }
 
 .App .title{
@@ -36,6 +37,7 @@
 
 .App-link {
   color: #61dafb;
+  font-size: calc(20px + 2vmin);
 }
 
 @keyframes App-logo-spin {
@@ -54,7 +56,7 @@
 
 .Countdown{
   margin: 10px auto;
-  padding-bottom: 20px;
+  /* padding-bottom: 20px; */
 }
 
 .Countdown-col{

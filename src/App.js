@@ -34,7 +34,7 @@ function App() {
             <a href="https://twitter.com/viragjain_vj" target="_blank">
               <img src={twitter} alt="github" className="profileIcon" />
             </a>
-            <a href="https://github.com/kristinbaumann/react-countdown" target="_blank">
+            <a href="https://github.com/viragjainVJ/new-year-2020" target="_blank">
               <img src={code} alt="github" className="profileIcon" />
             </a>
         </div>
