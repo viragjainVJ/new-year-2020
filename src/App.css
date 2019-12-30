@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 20vmin;
   pointer-events: none;
 }
 
@@ -14,14 +14,24 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: #282c34;  
+  min-height: 50vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.App .title{
+  margin-top: 0px;
+  padding-top: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(40px + 2vmin);
 }
 
 .App-link {
@@ -35,4 +45,42 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.profileIcon{
+  height: 50px;
+  margin-right: 5px;
+}
+
+.Countdown{
+  margin: 10px auto;
+  padding-bottom: 20px;
+}
+
+.Countdown-col{
+  display: inline-block;
+}
+
+.Countdown-col-element{
+  display: inline-block;
+  margin: 0 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.Countdown-col-element strong{
+  font-size: 50px;
+}
+
+.happyNewYear {
+  background-image: linear-gradient(to right,yellow,skyblue, violet);
+  min-height: 50vh;
+  /* display: flex; */
+  /* flex-direction: column; */
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  text-shadow: 2px 2px 5px red;
+  font-family: 'Courier New', Courier, monospace;
 }
