@@ -11,3 +11,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Page is Designed for wishing everyone a 
 ### Very Happy New Year 2020.
+
+
+![Mobile View](https://github.com/viragjainVJ/new-year-2020/src/icons/Mobile1.jpeg)
